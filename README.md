@@ -4,9 +4,9 @@
 
 ✨ **This us a boilerplate workspace that uses [Nx](https://nx.dev) and includes a [React Native](https://reactnative.dev) and a [Next.js](https://nextjs.org) that has been setup to be used with [RN Web](https://necolas.github.io/react-native-web)**   ✨
 
-## Branches
+This repo is meant to be instructional as well, therefore the work has been broken down in branches so you can see incremental updates.
 
-This repo is mean to be instructiona as well. Therefore the work has been broken down in branches so you can see incremental updates.
+## Branches
 
 Checkout the `step3` branch for the final result.
 
@@ -17,8 +17,8 @@ Checkout the `step3` branch for the final result.
 
 ## Start the app
 
-To start the development server run `nx serve mobile`. Open your browser and navigate to http://localhost:4200/. Happy coding!
-
+- To start the development server run `yarn nx serve web`. Open your browser and navigate to http://localhost:4200/.
+- To start the mobile app run `yarn nx run mobile`, this will start the metro bundler.
 
 ## Generate code
 
